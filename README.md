@@ -1,0 +1,2 @@
+# Quantum-Generative-Adversarial-Network-for-synthetic-brain-MRI-generation
+Semantics enabled encoding using IQP method with data re-uploading technique for converting classical data into quantum data, and the applying a GAN in which the generator network is quantum using 8 and 16 qubits respectively and 3 to 6 layers of data re-uploading. The entanglement is being preserved for proper correlation maintanence.
